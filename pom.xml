@@ -4,7 +4,7 @@
 
 	<groupId>sok.spring</groupId>
 	<artifactId>sok-pet-clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
     <modules>
         <module>pet-clinic-data</module>
 		<module>pet-clinic-web</module>
@@ -44,8 +44,8 @@
 	</build>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/panasandu/pet-clinic.git</developerConnection>
-	  <tag>sok-pet-clinic-0.0.1</tag>
+		<developerConnection>scm:git:git@github.com:panasandu/pet-clinic.git</developerConnection>
+	  <tag>HEAD</tag>
   </scm>
 
 </project>
